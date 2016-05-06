@@ -46,7 +46,7 @@ BOARD_FLASH_BLOCK_SIZE := 131072
 
 #kernel
 TARGET_KERNEL_SOURCE := kernel/samsung/a33g
-TARGET_KERNEL_CONFIG := cyanogenmod_a33g_defconfig
+TARGET_KERNEL_CONFIG := msm8916_sec_defconfig
 TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_a33g_eur_defconfig
 TARGET_KERNEL_SELINUX_CONFIG := selinux_defconfig
 
